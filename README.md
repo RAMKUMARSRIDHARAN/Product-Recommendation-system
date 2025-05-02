@@ -1,4 +1,4 @@
-# E-Commerece-Recommendation-System-Machine-Learning-Product-Recommendation-system
+# E-Commerce-Recommendation-System-Machine-Learning-Product-Recommendation-system
 
 
 Building an E-Commerce Recommendation System with Streamlit and Machine Learning
